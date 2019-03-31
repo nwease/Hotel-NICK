@@ -12,6 +12,12 @@
     border-bottom: #444444 dotted 1px;
 }
 
+/* SHOWCASE */
+#showcase .showcase-content {
+    padding-top: 100px;
+    padding-bottom: 30px;
+}
+
 /* HOME INFO */
 #home-info {
     height: 550px;
@@ -30,4 +36,24 @@
 .box {
     float: none;
     width: 100%;
+}
+
+/* ABOUT */
+#about-info .info-right,
+#about-info .info-left {
+    float: none;
+    width: 100%;
+}
+
+#about-info .info-right {
+    margin-top: 30px;
+}
+
+.heading-large {
+    text-align: center;
+}
+
+/* CONTACT FORM */
+#contact-info .box {
+    border-bottom: #444444 dotted 1px;
 }

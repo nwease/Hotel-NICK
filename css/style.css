@@ -80,6 +80,7 @@ p {
 
 .heading-large {
     font-size: 35px;
+    line-height: 1.2;
 }
 
 /* PADDING */
@@ -218,7 +219,7 @@ p {
 
 /* TESTIMONIALS */
 #testimonials {
-    height: 600px;
+    height: 100%;
     background: url('../images/test-bg.jpg') no-repeat center center/cover;
     padding-top: 50px;
 }
